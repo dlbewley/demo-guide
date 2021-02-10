@@ -15,5 +15,5 @@ namespaces, and most other Kubernetes resources.
 
 ## Additional Resources
 
-You can find more information about OpenShift 4.2 metering in the
-[documentation](https://docs.openshift.com/container-platform/4.2/metering/metering-about-metering.html)
+You can find more information about OpenShift metering in the
+[documentation](https://docs.openshift.com/container-platform/latest/metering/metering-about-metering.html)
